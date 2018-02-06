@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Adeventuring On My Own"
+author: "David Soto"
+categories: project-decisions
+tags: [neo4j]
+image: horizon-1.jpeg
+---
+
 It is February of 2018 and I finally decided to adventure on my own. Take all my experience in different aspects and start building my own brand and doing something that I think it will be the best for me in my future.
 
 I decided to do an application going on a somewhat niche market and it mixes some ideas of everything that I have experienced.
